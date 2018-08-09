@@ -11,3 +11,5 @@ https://www.codechef.com/problems/GERALD07 </br>
 https://vn.spoj.com/PTIT/problems/OTOCI/ </br>
 https://www.codechef.com/NOV14/problems/FNCS/ </br>
 https://www.hackerrank.com/contests/hourrank-23/challenges/selective-additions/problem </br>
+http://codeforces.com/problemset/problem/1017/G (hint: fragmenteded tree) </br>
+http://codeforces.com/problemset/problem/1017/H </br>
