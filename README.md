@@ -13,6 +13,7 @@ https://www.codechef.com/NOV14/problems/FNCS/ </br>
 https://www.hackerrank.com/contests/hourrank-23/challenges/selective-additions/problem </br>
 http://codeforces.com/problemset/problem/1017/G (hint: Megumi's tree Decompostion) </br>
 http://codeforces.com/problemset/problem/1017/H </br>
+https://www.hackerrank.com/contests/w31/challenges/nominating-group-leaders </br>
 
 **Sidenote: Megumi's tree Decompostion** *(created by Megumi Tadokoro (10/8/2018)* </br>
 Brief description of Megumi's tree Decompostion (MD): </br>
